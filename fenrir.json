@@ -1,0 +1,12 @@
+{
+  "airsdk": "C:/app/dev/airsdk/25.0.0/",
+  "certificat": {
+    "name": "my-app-name",
+    "organizationalUnit": "",
+    "organization": "",
+    "countryCode": "",
+    "validityPeriod": "10",
+    "output": "cert.p12",
+    "password": "1234"
+  }
+}
