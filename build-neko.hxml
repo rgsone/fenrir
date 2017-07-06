@@ -1,0 +1,5 @@
+-cp src
+-main com.rgsone.fenrir.Fenrir
+-lib mlib
+-neko out/neko/fenrir.n
+#-cmd neko out/neko/fenrir.n

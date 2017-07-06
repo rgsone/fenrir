@@ -1,0 +1,4 @@
+-cp src
+-main com.rgsone.fenrir.Fenrir
+-lib mlib
+-cpp out/cpp
